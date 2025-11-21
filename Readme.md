@@ -2,11 +2,15 @@
 
 **A browser extension that automatically answers MCQ and fill-in-the-blank questions on CDC tests because we have better things to do with our lives than 15 fucking tests at once.**
 
+[![⬇️ Download fuckCDC](https://img.shields.io/badge/Download-fuckCDC-blue?style=for-the-badge)](https://github.com/arnofrxdd/fuckCDC/archive/refs/tags/initial-release.zip)
+
 <div align="left">
   
 <img src="https://github.com/arnofrxdd/fuckCDC/raw/stuff/fuckCDC.png" width="40%" height="40%">
 
 </div>
+
+
 
 ## What the Actual Fuck is This?
 
