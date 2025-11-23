@@ -20,7 +20,6 @@ Some absolute legend at our college thinks it's perfectly reasonable to dump 15 
 
 - Automatically answers MCQ questions
 - Fills in blank questions
-- Navigates between sections and questions
 - Basically does everything except your coding questions (you're on your own for that, sorry)
 
 ## What It Doesn't Do ❌
